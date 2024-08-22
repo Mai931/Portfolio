@@ -9,6 +9,8 @@
 ## About me
 I am an optimistic individual with a balanced set of strengths. My research background has made me highly organized, detail-oriented, and methodical. Simultaneously, I thrive on interacting with others and tackling problems.
 
+I am an IT graduate with a strong foundation in systems and programming, now specializing in software testing. My technical expertise enables me to design and execute thorough test cases, anticipate potential issues, and ensure high-quality software delivery. Combining my IT skills with a passion for quality assurance, I bridge development and testing to drive robust and reliable software solutions.
+
 Currently, I am channeling my research and analytical expertise into software testing. I am deeply engaged in learning new techniques and tools through online courses and hands-on testing of educational web applications.
 
 I am eager to apply what I’ve learned to real-world testing scenarios and gain practical experience. Achieving this is a crucial step toward my goal of becoming a mid-level software tester .
