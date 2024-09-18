@@ -59,16 +59,19 @@ __Jira__
 
 __Trello and Notion__
   * know how to use Kanban boards and track project progress.
+    
 __Postman__
   * Creating and managing API collections to organize test cases.
   * Executing HTTP requests (GET, POST, PUT, DELETE) and validating responses.
   * Using environment variables to manage different test environments.
   * Handling authentication methods like API keys, OAuth, and JWT within Postman.
   * Leveraging Postman’s scripting capabilities to automate pre-request and test scripts for dynamic testing.
+    
 __Newman(Automated API Testing and Reporting)__
   * Running Postman collections from the command line to automate tests in various environments.
   * Generating comprehensive test reports in formats such as HTML, JSON, and HTMLEXTRA to analyze test results and coverage.
   * Integrating Newman with CI/CD pipelines to ensure continuous testing and feedback during the development lifecycle.
+    
 ## Projects
 __Test Plan for E-Commerce Web Application__
 
