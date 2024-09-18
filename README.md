@@ -93,7 +93,7 @@ __Exploratory Testing for E-Commerce Web Application__
 __API Testing Collection and Reporting__
 * Description:
   - Developed and executed API test scripts, managed environment variables, and generated reports to validate API functionality.
-*Key Contributions:
+* Key Contributions:
   - Created API test scripts in Postman for various HTTP methods.
   - Configured environment variables for dynamic URL handling.
   - Generated detailed reports using Newman for analysis and review.
