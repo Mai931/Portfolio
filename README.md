@@ -15,7 +15,7 @@ Currently, I am channeling my research and analytical expertise into software te
 
 I am eager to apply what I’ve learned to real-world testing scenarios and gain practical experience. Achieving this is a crucial step toward my goal of becoming a mid-level software tester .
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1KoLyhne3q1PkdcSW4GjVCKXH_Frt3kdk/view?usp=drivesdk).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1OHlyo91goKCFmN_GbIJiYBJun3F3KzUc/view?usp=drivesdk).
 ## Skills
 __ISTQB FL V4__
  * famillier with all testing techniques covered by istqb fl.
